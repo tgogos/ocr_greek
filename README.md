@@ -4,9 +4,12 @@ resources, links for OCR &amp; greek
 
 ## Links
  
- - [Tools and advice for the Optical Character Recognition (OCR) of Ancient Greek](https://wiki.digitalclassicist.org/OCR_for_ancient_Greek) Nick White
+ - [Tools and advice for the Optical Character Recognition (OCR) of Ancient Greek](https://wiki.digitalclassicist.org/OCR_for_ancient_Greek)
+
+## People
+ - [Ancient Greek OCR](https://ancientgreekocr.org/) Nick White
  - [Lace: Visualizing, Editing and Searching Polylingual OCR Results](http://heml.mta.ca/lace/index.html) Bruce Robertson, github: [@brobertson](https://github.com/brobertson/)
- - 
+ - [Antigraphaeus](https://dcthree.github.io/antigrapheus/) allows you to do Greek OCR in your browser. It's the child of [Ryan](https://twitter.com/ryanfb) [Baumann](http://ryanfb.github.io/)
 
 ## Tools
 
