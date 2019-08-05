@@ -4,7 +4,9 @@ resources, links for OCR &amp; greek
 
 ## Links
  
- - [Tools and advice for the Optical Character Recognition (OCR) of Ancient Greek](https://wiki.digitalclassicist.org/OCR_for_ancient_Greek)
+ - [Tools and advice for the Optical Character Recognition (OCR) of Ancient Greek](https://wiki.digitalclassicist.org/OCR_for_ancient_Greek) Nick White
+ - [Lace: Visualizing, Editing and Searching Polylingual OCR Results](http://heml.mta.ca/lace/index.html) Bruce Robertson, github: [@brobertson](https://github.com/brobertson/)
+ - 
 
 ## Tools
 
@@ -17,3 +19,8 @@ resources, links for OCR &amp; greek
    - based on `TESSERACT`
    - 👍 tested
    - no installation required
+
+
+## Other
+
+ - [Digital Nyssa Project: From OCR to Plain Text](https://thepatrologist.com/2018/01/25/digital-nyssa-project-from-ocr-to-plain-text/)
