@@ -2,9 +2,6 @@
 
 resources, links for OCR &amp; greek
 
-## Links
- 
- - [Tools and advice for the Optical Character Recognition (OCR) of Ancient Greek](https://wiki.digitalclassicist.org/OCR_for_ancient_Greek)
 
 ## People
  - Nick White, [Ancient Greek OCR](https://ancientgreekocr.org/)
@@ -13,8 +10,8 @@ resources, links for OCR &amp; greek
  - Ryan Baumann, [Antigraphaeus](https://dcthree.github.io/antigrapheus/) (Greek OCR in your browser)
    - github: [@ryanfb](https://github.com/ryanfb)
 
-## Tools
 
+## Tools
  - [Ancient Greek OCR](https://ancientgreekocr.org/)
    - based on `TESSERACT`
    - 👍 tested on Windows
@@ -26,9 +23,10 @@ resources, links for OCR &amp; greek
    - no installation required
 
 
-## Other
-
+## Useful links
+ - [Tools and advice for the Optical Character Recognition (OCR) of Ancient Greek](https://wiki.digitalclassicist.org/OCR_for_ancient_Greek)
  - [Digital Nyssa Project: From OCR to Plain Text](https://thepatrologist.com/2018/01/25/digital-nyssa-project-from-ocr-to-plain-text/)
+
 
 ## Digital Libraries
  - [stephanus.tlg.uci.edu](http://stephanus.tlg.uci.edu/) Thesaurus Linguae Graecae® -A Digital Library of Greek Literature
