@@ -27,3 +27,8 @@ resources, links for OCR &amp; greek
 ## Other
 
  - [Digital Nyssa Project: From OCR to Plain Text](https://thepatrologist.com/2018/01/25/digital-nyssa-project-from-ocr-to-plain-text/)
+
+## Digital Libraries
+ - [stephanus.tlg.uci.edu](http://stephanus.tlg.uci.edu/) Thesaurus Linguae Graecae® -A Digital Library of Greek Literature
+ - [www.perseus.tufts.edu/hopper/](http://www.perseus.tufts.edu/hopper/) Perseus Digital Library Project
+ - [opengreekandlatin.github.io/First1KGreek](http://opengreekandlatin.github.io/First1KGreek/) First One-Thousand Years of Greek Project
