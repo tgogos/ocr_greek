@@ -21,6 +21,10 @@ resources, links for OCR &amp; greek
    - based on `TESSERACT`
    - 👍 tested
    - no installation required
+ - [Lace](http://heml.mta.ca/lace/index.html)
+   - Designed for High-Performance Computing (HPC environments). From their FAQ: *"...not ideally suited for a desktop environment. We strongly recommend the tesseract OCR Engine and Nick White's polytonic Greek [classifiers](http://www.eutypon.gr/eutypon/pdf/e2012-29/e29-a01.pdf)"*
+   - results since 2014 employed the [Ciaconna Greek OCR](https://github.com/brobertson/ciaconna) process (Ocropus open source engine, with custom classifiers, image preprocessing and spell-check routines written in Python)
+   - the earlier process, used from 2012 - 2014, is named 'Rigaudon' and is based on the Gamera image processing library. All code and classifiers for Rigaudon are posted in a [github repository](https://github.com/brobertson/rigaudon).
 
 
 ## Useful links
