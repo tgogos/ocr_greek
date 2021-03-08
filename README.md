@@ -30,6 +30,7 @@ resources, links for OCR &amp; greek
 ## Useful links
  - [Tools and advice for the Optical Character Recognition (OCR) of Ancient Greek](https://wiki.digitalclassicist.org/OCR_for_ancient_Greek)
  - [Digital Nyssa Project: From OCR to Plain Text](https://thepatrologist.com/2018/01/25/digital-nyssa-project-from-ocr-to-plain-text/)
+ - [Improving the quality of the output](https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html) from Tesseract Docs
 
 
 ## Digital Libraries
